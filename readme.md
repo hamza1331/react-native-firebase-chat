@@ -8,7 +8,6 @@
 [![React Native][react_native-badge]][react_native-url]
 [![Android Platform][android_platform-badge]][android_platform-url]
 [![Android Studio][android_studio-badge]][android_studio-url]
-[![Codebeat][codebeat-badge]][codebeat-url]
 
 React Native chat application using Firebase backend. 
 
@@ -70,6 +69,5 @@ react-native run-android
 [android_studio-badge]: https://img.shields.io/badge/Android%20Studio-3.2.1+-green.svg
 [android_studio-url]: https://developer.android.com/studio/install
 [codebeat-badge]: https://codebeat.co/badges/f22bd54a-d944-440d-aa4d-3a99f79b41d3
-[codebeat-url]: https://codebeat.co/projects/github-com-binbytes-react-native-firebase-chat-master
 [ico-travis]: https://img.shields.io/travis/binbytes/laravel-model-media-backup/master.svg?style=flat-square
 [link-travis]: https://travis-ci.org/binbytes/react-native-firebase-chat
